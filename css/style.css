@@ -1,0 +1,129 @@
+
+
+/* NAV */ 
+
+
+.TuniStock {
+  border-radius: 50px;
+  background-color: #ff0000!important;
+}
+
+.bg-nav{
+  background-color: #11122b!important;
+  color: #ffffff!important;
+}
+
+
+
+/*images slides*/
+
+.imgs{
+  top : 5px;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  filter: blur(3px);
+  -webkit-filter:blur(3px);
+}
+
+.mySlides{
+  display: none;
+}
+
+.text-on-slides{
+  top: 200px!important;
+}
+
+
+.ahla{
+   width: 50%;
+  position: relative;
+  margin-top: -40%;
+  display: inline-block;
+}
+
+.ahla img {
+  position: absolute;
+  left: 50%;
+  width: 100%;
+  height: auto;
+  bottom: 370px;
+  display: block;
+  align-items: center;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black; 
+  border-color: red;
+  
+}
+
+h3 ,p {
+color: black!important;
+font-size: 40px;
+
+}
+
+
+
+
+
+
+/*main */
+.nav-tabs{
+
+font-size: 16px!important;
+
+}
+.find{
+
+text-align: center;
+ background-color: #11122b;
+  padding: 30px;
+  color : #ff0000;
+}
+
+
+.freeLancers,.mission{
+  background-color: white;
+  margin-bottom: 15px;
+ 
+   padding: 5px;
+  
+}
+
+.red-h3{
+  color: red!important;
+  transition: 0.5s;
+  font-size: 27px;
+}
+
+.red-h3-out{transition: 0.5s;}
+
+
+
+a.nav-link:hover{
+background-color: #969696!important;
+
+}
+
+
+/*footer*/
+
+footer{
+  background-color: #11122b;
+  color: white!important;
+  
+}
+
+
+
+
+
+.bg-change-findAfreelancer{
+  background-color: #ff0000;
+
+
+}
+
+.row:hover{
+  border:1px solid #ff0000;
+}
